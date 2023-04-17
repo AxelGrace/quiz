@@ -1,0 +1,47 @@
+/* Container */
+#container {
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: center;
+    font-family: Arial, sans-serif;
+    }
+    
+    /* Header */
+    h1 {
+    font-size: 2em;
+    margin-bottom: 0.5em;
+    }
+    
+    /* Question */
+    #question {
+    font-size: 1.5em;
+    margin-bottom: 0.5em;
+    }
+    
+    /* Answer input */
+    #answer {
+    font-size: 1.2em;
+    padding: 0.5em;
+    margin-bottom: 0.5em;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    }
+    
+    /* Check and New Question buttons */
+    button {
+    font-size: 1.2em;
+    padding: 0.5em 1em;
+    margin: 0.5em;
+    border-radius: 5px;
+    border: none;
+    background-color: #007acc;
+    color: #fff;
+    cursor: pointer;
+    }
+    
+    /* Result message */
+    #result {
+    font-size: 1.2em;
+    margin-bottom: 0.5em;
+    color: red;
+    }
